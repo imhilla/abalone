@@ -35,6 +35,7 @@ feature_columns_dtype = {
     "viscera_weight": np.float64,
     "shell_weight": np.float64,
 }
+
 label_column_dtype = {"rings": np.float64}
 
 def merge_two_dicts(x, y):
