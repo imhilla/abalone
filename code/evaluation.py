@@ -1,5 +1,3 @@
-# Define a Model Evaluation Step to Evaluate the Trained Model
-# First, develop an evaluation script that is specified in a Processing step that performs the model evaluation.
 import json
 import pathlib
 import pickle
